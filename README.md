@@ -6,4 +6,4 @@ Model building = stroke_predictor_model.ipynb (Jupyter notebook)
 
 Model saved = rf_model.sav
 
-App file = stroke-predictor-app.py
+Streamlit app = stroke-predictor-app.py
