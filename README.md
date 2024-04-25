@@ -2,7 +2,7 @@
 
 Dataset obtained https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 
-Jupyter notebook is used to build the model and model is saved to use for prediction in streamlit app
+The stroke-dataset.csv dataset is used for prediction and stroke-dataset-cleaned.csv is the cleaned version of stroke-dataset.csv
 
 App link: https://strokepredictor.streamlit.app/
 
