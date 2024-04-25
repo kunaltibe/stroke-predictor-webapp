@@ -6,4 +6,4 @@ The stroke-dataset.csv dataset is used for prediction and stroke-dataset-cleaned
 
 Streamlit app: https://strokepredictor.streamlit.app/
 
-![image](https://github.com/kunaltibe/stroke-predictor-webapp/assets/62512570/03fd78b7-264b-4839-b4a1-95cc57b745e3)
+<img width="1512" alt="image" src="https://github.com/kunaltibe/stroke-predictor-webapp/assets/62512570/e0a36ea4-7540-41fb-b96f-ebc8bbeb4314">
